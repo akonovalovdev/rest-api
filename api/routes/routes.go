@@ -2,6 +2,7 @@ package routes
 
 import (
 	"github.com/go-chi/chi/v5"
+
 	"rest-api/api/handlers"
 )
 
